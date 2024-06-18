@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+thumbs.db
+*.log
+dist/
+build/
+.idea/
+.env
+credentials.json
